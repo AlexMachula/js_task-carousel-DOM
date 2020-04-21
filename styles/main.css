@@ -101,7 +101,7 @@ h1 {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background-color: #86dce2; }
+    background-color: white; }
     .carousel__dot_active {
       background-color: #26768f; }
   .carousel__dots-wrap {
